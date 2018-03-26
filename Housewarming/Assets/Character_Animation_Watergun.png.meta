@@ -1,0 +1,319 @@
+fileFormatVersion: 2
+guid: ab21def0718a7ba4c8a9432608c097f9
+timeCreated: 1441280095
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Character_Animation_Watergun_0
+    21300002: Character_Animation_Watergun_1
+    21300004: Character_Animation_Watergun_2
+    21300006: Character_Animation_Watergun_3
+    21300008: Character_Animation_Watergun_4
+    21300010: Character_Animation_Watergun_5
+    21300012: Character_Animation_Watergun_6
+    21300014: Character_Animation_Watergun_7
+    21300016: Character_Animation_Watergun_8
+    21300018: Character_Animation_Watergun_9
+    21300020: Character_Animation_Watergun_10
+    21300022: Character_Animation_Watergun_11
+    21300024: Character_Animation_Watergun_12
+    21300026: Character_Animation_Watergun_13
+    21300028: Character_Animation_Watergun_14
+    21300030: Character_Animation_Watergun_15
+    21300032: Character_Animation_Watergun_16
+    21300034: Character_Animation_Watergun_17
+    21300036: Character_Animation_Watergun_18
+    21300038: Character_Animation_Watergun_19
+    21300040: Character_Animation_Watergun_20
+    21300042: Character_Animation_Watergun_21
+    21300044: Character_Animation_Watergun_22
+    21300046: Character_Animation_Watergun_23
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Character_Animation_Watergun_0
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1404
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Animation_Watergun_1
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1023
+        width: 260
+        height: 997
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Animation_Watergun_2
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 1404
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Animation_Watergun_3
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 1023
+        width: 306
+        height: 997
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Animation_Watergun_4
+      rect:
+        serializedVersion: 2
+        x: 2407
+        y: 1404
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Animation_Watergun_5
+      rect:
+        serializedVersion: 2
+        x: 2417
+        y: 1023
+        width: 366
+        height: 997
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Animation_Watergun_6
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1140
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Animation_Watergun_7
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1143
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Animation_Watergun_8
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 1140
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Animation_Watergun_9
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 1143
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Animation_Watergun_10
+      rect:
+        serializedVersion: 2
+        x: 2227
+        y: 1140
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Animation_Watergun_11
+      rect:
+        serializedVersion: 2
+        x: 2261
+        y: 1143
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Animation_Watergun_12
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 381
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Animation_Watergun_13
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 0
+        width: 402
+        height: 997
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Animation_Watergun_14
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 381
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Animation_Watergun_15
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 0
+        width: 365
+        height: 997
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Animation_Watergun_16
+      rect:
+        serializedVersion: 2
+        x: 2407
+        y: 380
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Animation_Watergun_17
+      rect:
+        serializedVersion: 2
+        x: 2417
+        y: 0
+        width: 306
+        height: 995
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Animation_Watergun_18
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 117
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Animation_Watergun_19
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 121
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Animation_Watergun_20
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 117
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Animation_Watergun_21
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 121
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Animation_Watergun_22
+      rect:
+        serializedVersion: 2
+        x: 2227
+        y: 117
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Animation_Watergun_23
+      rect:
+        serializedVersion: 2
+        x: 2261
+        y: 120
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

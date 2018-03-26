@@ -1,0 +1,407 @@
+fileFormatVersion: 2
+guid: 846abad56ca5b6644a7b02fc8f9c52c6
+timeCreated: 1441278301
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Character_Animation_Running_0
+    21300002: Character_Animation_Running_1
+    21300004: Character_Animation_Running_2
+    21300006: Character_Animation_Running_3
+    21300008: Character_Animation_Running_4
+    21300010: Character_Animation_Running_5
+    21300012: Character_Animation_Running_6
+    21300014: Character_Animation_Running_7
+    21300016: Character_Animation_Running_8
+    21300018: Character_Animation_Running_9
+    21300020: Character_Animation_Running_10
+    21300022: Character_Animation_Running_11
+    21300024: Character_Animation_Running_12
+    21300026: Character_Animation_Running_13
+    21300028: Character_Animation_Running_14
+    21300030: Character_Animation_Running_15
+    21300032: Character_Animation_Running_16
+    21300034: Character_Animation_Running_17
+    21300036: Character_Animation_Running_18
+    21300038: Character_Animation_Running_19
+    21300040: Character_Animation_Running_20
+    21300042: Character_Animation_Running_21
+    21300044: Character_Animation_Running_22
+    21300046: Character_Animation_Running_23
+    21300048: Character_Animation_Running_24
+    21300050: Character_Animation_Running_25
+    21300052: Character_Animation_Running_26
+    21300054: Character_Animation_Running_27
+    21300056: Character_Animation_Running_28
+    21300058: Character_Animation_Running_29
+    21300060: Character_Animation_Running_30
+    21300062: Character_Animation_Running_31
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Character_Animation_Running_0
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1071
+        width: 539
+        height: 927
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Animation_Running_1
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 1077
+        width: 480
+        height: 921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Animation_Running_2
+      rect:
+        serializedVersion: 2
+        x: 2357
+        y: 1080
+        width: 362
+        height: 918
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Animation_Running_3
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 1062
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Animation_Running_4
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 1062
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Animation_Running_5
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 1050
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Animation_Running_6
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 1050
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Animation_Running_7
+      rect:
+        serializedVersion: 2
+        x: 2616
+        y: 1050
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Animation_Running_8
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1042
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Animation_Running_9
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 1042
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Animation_Running_10
+      rect:
+        serializedVersion: 2
+        x: 2649
+        y: 1042
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Animation_Running_11
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 57
+        width: 486
+        height: 897
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Animation_Running_12
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 868
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Animation_Running_13
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 57
+        width: 402
+        height: 897
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Animation_Running_14
+      rect:
+        serializedVersion: 2
+        x: 2443
+        y: 57
+        width: 365
+        height: 896
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Animation_Running_15
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 194
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Animation_Running_16
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 151
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Animation_Running_17
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 142
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Animation_Running_18
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 134
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Animation_Running_19
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 118
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Animation_Running_20
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 108
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Animation_Running_21
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 99
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Animation_Running_22
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 55
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Animation_Running_23
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 54
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Animation_Running_24
+      rect:
+        serializedVersion: 2
+        x: 2662
+        y: 54
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Animation_Running_25
+      rect:
+        serializedVersion: 2
+        x: 2543
+        y: 47
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Animation_Running_26
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 6
+        width: 20
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Animation_Running_27
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 5
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Animation_Running_28
+      rect:
+        serializedVersion: 2
+        x: 2617
+        y: 5
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Animation_Running_29
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 0
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Animation_Running_30
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 0
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Animation_Running_31
+      rect:
+        serializedVersion: 2
+        x: 2650
+        y: 0
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
